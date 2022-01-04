@@ -24,3 +24,7 @@ Timothy Pulliam:
     - 🎉 Staying up way past my bedtime
 ```
 
+<a href="https://www.credly.com/users/timothy-pulliam/badges">
+   <img src="https://images.credly.com/size/680x680/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png" alt="AWS Partner: Accreditation (Technical)" height=20% width=20%></img>
+   <img src="https://images.credly.com/size/680x680/images/f5e8b53f-b205-4109-9795-572ccec04cfe/PartnerAccreditation-Business.png" alt="AWS Partner: Accreditation (Business)" height=20% width=20%></img>
+</a>
